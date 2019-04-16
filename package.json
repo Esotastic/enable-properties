@@ -4,6 +4,7 @@
   "description": "A website for Enable Properties",
   "main": "index.js",
   "dependencies": {
+    "bulma": "^0.7.4",
     "bulma-start": "^0.0.3"
   },
   "devDependencies": {},
